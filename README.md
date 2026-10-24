@@ -85,9 +85,7 @@ A software development project focused on building a coding-related application.
 ### 4. Java DSA Practice
 A collection of algorithmic problems and implementations covering data structures, recursion, trees, and problem-solving patterns.
 
-**Tech:** Java
 
-> Add the actual GitHub repository links to each project before publishing this section.
 
 ## 🌱 Currently Exploring
 
@@ -104,7 +102,7 @@ A collection of algorithmic problems and implementations covering data structure
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/chlikitha19
-- LinkedIn: " LIKITHA
+- LinkedIn:https://www.linkedin.com/in/ch-likitha-069567329
 - Email: chlikitha19@gmail.com
 
 ---
