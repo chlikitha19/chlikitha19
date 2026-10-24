@@ -99,7 +99,7 @@ A collection of algorithmic problems and implementations covering data structure
 
 ## 📊 My GitHub Journey
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=chlikitha19&style=flat-square&color=blue)
 
 ## 🤝 Connect With Me
 
