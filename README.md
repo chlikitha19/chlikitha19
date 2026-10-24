@@ -103,9 +103,9 @@ A collection of algorithmic problems and implementations covering data structure
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile URL
-- Email: Add your professional email address
+- GitHub: https://github.com/chlikitha19
+- LinkedIn: " LIKITHA
+- Email: chlikitha19@gmail.com
 
 ---
 
